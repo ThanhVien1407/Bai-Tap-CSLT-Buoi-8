@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bài Tập CSLT - Buổi 8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
